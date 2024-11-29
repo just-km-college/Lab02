@@ -19,3 +19,4 @@ public class Main {
         System.out.printf("Color 4: a: %d, R: %d, G: %d, B: %d\n",color4.alfa(), color4.red(), color4.green(), color4.blue());
     }
 }
+

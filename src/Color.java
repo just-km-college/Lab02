@@ -17,3 +17,4 @@ public record Color(int alfa, int red, int green, int blue) {
     }
 
 }
+
